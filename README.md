@@ -1,2 +1,2 @@
 # EveryDayWebsites
-An coding a day,keeps lazy away
+A coding a day,keeps lazy away
